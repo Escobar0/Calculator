@@ -1,1 +1,3 @@
-### A simple calculator created in html, css and javascript
+## Simple calculator
+
+### A calculator created in html, css, javascript
